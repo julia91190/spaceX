@@ -1,0 +1,59 @@
+h1{
+  font-size: 40px;
+  color: mediumblue;
+  font-family: Helvetica;
+  letter-spacing: 10px;
+  text-decoration: underline;
+}
+h1:hover{
+  color:olivedrab;
+}
+
+h3{
+  front-size: 70px;
+  color: blue;
+  text-decoration: underline;
+}
+h3:hover{
+  color:orchid;
+
+}
+
+
+body{
+  background-color: paleturquoise;
+
+}
+
+.test{
+  margin-left:500px;
+}
+
+.LOL{
+  front-family: Arial;
+  front-size: 20px;
+  text-decoration:underline;
+}
+
+.nouveau{
+  font-family: Arial;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.encore{
+  front-size: 50px;
+}
+
+table{
+  border-collapse:collapse;
+}
+td,th /* Mettre une bordure  sur les td ET les th*/
+
+td {
+  border : 1px solid black;
+}
+
+th{
+  border: 1px solid black;
+}

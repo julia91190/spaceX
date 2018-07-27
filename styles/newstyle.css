@@ -1,0 +1,180 @@
+body{
+background-color: darkmagenta;
+}
+
+h1{
+color: navy;
+font-size: 100px;
+font-family: cursive;
+text-align: center;
+text-decoration: underline;
+}
+
+h1:hover{
+ color: teal;
+ font-style: italic;
+ text-shadow: 5px 5px palegoldenrod;
+}
+
+.header{
+  color:white;
+  display:flex;
+  text-align: center;
+  justify-content: space-between;
+
+}
+
+.test{
+  color: black;
+  text-align: center;
+  font-size: 20px;
+}
+.menu{
+  color:white;
+  display:flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+nav ul{
+list-style-type: none;
+display: flex;
+}
+
+}
+nav ul li{
+
+  list-style: none;
+
+
+
+}
+
+nav ul li a {
+  display: flex;
+  list-style: none;
+  text-decoration: underline;
+  margin-left: 350px;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 100px;
+  font-size: 40px;
+  color:white;
+}
+
+
+.div{
+width: 960px;
+text-align: center;
+margin:auto;
+}
+
+.debut{
+  float: left;
+}
+
+
+
+.fin{
+  margin-right: : auto;
+  display: inline-block;
+  float: right;
+}
+
+.texte{
+  font-size: 30px;
+  text-align: center;
+}
+
+.lancement{
+  margin-left:90px;
+  color:white;
+  font-size:40px;
+  text-align:left;
+  border-style:double;
+  border-color: yellow;
+  width: 200px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 3px;
+  padding-top: 3px;
+  padding-left: 15px;
+}
+
+.compteur{
+  margin-left: 170px;
+  color:white;
+  font-size: 20px;
+  border-style: dotted;
+  border-color: aquamarine;
+  width: 60px;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  font-size: 40px;
+}
+
+.relative > p {
+  display: none;
+}
+
+.centre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container{
+  width: 960px;
+  text-align: center;
+  margin: auto;
+}
+table{
+  border-collapse: collapse;
+}
+
+td,th{
+border  :1px solid black;
+}
+
+h3{
+  text-decoration: underline;
+  color: lawngreen;
+  font-size: 30px;
+
+}
+
+h3:hover{
+  color:lightsalmon;
+
+}
+.illustration{
+  color: lightskyblue;
+}
+
+.video{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+h4{
+  font-size: 40px;
+  font-family: cursive;
+  text-decoration: underline;
+}
+
+h4:hover{
+  color: gold;
+  font-style: italic;
+  text-shadow: 5px 5px #558ABB;
+}
+
+.dialogue {
+  margin-left: 1000px;
+  margin-bottom: : 1000px;
+}
+
+.icone{
+  list-style-image: url('https://media.giphy.com/media/2blmehMgQbBRK/giphy-downsized.gif');
+}
